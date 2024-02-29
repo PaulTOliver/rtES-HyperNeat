@@ -1,0 +1,41 @@
+{
+    "build_systems":
+    [
+        {
+            "cmd":
+            [
+                "make",
+                "-C",
+                "${project_path}"
+            ],
+            "name": "Build"
+        },
+        {
+            "cmd":
+            [
+                "make",
+                "clean",
+                "-C",
+                "${project_path}"
+            ],
+            "name": "Clean"
+        }
+    ],
+    "folders":
+    [
+        {
+            "file_exclude_patterns":
+            [
+                "*.sublime-project",
+                "*.sublime-workspace"
+            ],
+            "folder_exclude_patterns":
+            [
+                "obj",
+                "lib",
+                "Algorithm Documentation"
+            ],
+            "path": "."
+        }
+    ]
+}

@@ -1,0 +1,1199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fiel",
+				"fieldGenerator"
+			],
+			[
+				"_ne",
+				"_neuralNetReady"
+			],
+			[
+				"_neu",
+				"_neuralNetReady"
+			],
+			[
+				"_neur",
+				"_neuralNet"
+			],
+			[
+				"setOu",
+				"setOutlineColor"
+			],
+			[
+				"PIX",
+				"PIXEL_SIZE"
+			],
+			[
+				"Neu",
+				"Neuron"
+			],
+			[
+				"IN",
+				"INPUT"
+			],
+			[
+				"setO",
+				"setOrigin"
+			],
+			[
+				"Uin",
+				"Uint8"
+			],
+			[
+				"PI",
+				"PIXEL_SIZE"
+			],
+			[
+				"Neur",
+				"Neuron"
+			],
+			[
+				"Bl",
+				"BlendAdd"
+			],
+			[
+				"_wi",
+				"_withNeuralNet"
+			],
+			[
+				"neura",
+				"neuralNetGenerator"
+			],
+			[
+				"neural",
+				"_neuralNetGenerator"
+			],
+			[
+				"_win",
+				"_windowOpen"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"joi",
+				"joinable"
+			],
+			[
+				"win",
+				"_windowThread"
+			],
+			[
+				"grid",
+				"gridSpacing"
+			],
+			[
+				"Rende",
+				"RenderTarget"
+			],
+			[
+				"Render",
+				"RenderWindow"
+			],
+			[
+				"sr",
+				"srcNeuron"
+			],
+			[
+				"colo",
+				"colorMult"
+			],
+			[
+				"setOutl",
+				"setOutlineThickness"
+			],
+			[
+				"gri",
+				"gridClr"
+			],
+			[
+				"_sh",
+				"_showGrid"
+			],
+			[
+				"res",
+				"resolution"
+			],
+			[
+				"fie",
+				"field"
+			],
+			[
+				"fi",
+				"_field"
+			],
+			[
+				"out",
+				"outputAt"
+			],
+			[
+				"cpp",
+				"_cppn"
+			],
+			[
+				"_bia",
+				"_biasTexture"
+			],
+			[
+				"in",
+				"inputAt"
+			],
+			[
+				"INV",
+				"INV_WEIGHTS"
+			],
+			[
+				"col",
+				"colorInt"
+			],
+			[
+				"C",
+				"CircleShape"
+			],
+			[
+				"Neural",
+				"NeuralNet"
+			],
+			[
+				"_cur",
+				"_cursorPos"
+			],
+			[
+				"_cu",
+				"_cursorPos"
+			],
+			[
+				"prin",
+				"printWeights"
+			],
+			[
+				"Key",
+				"Keyboard"
+			],
+			[
+				"Cpp",
+				"CppnExplorer"
+			],
+			[
+				"co",
+				"Color"
+			],
+			[
+				"_is",
+				"_isLocked"
+			],
+			[
+				"Ne",
+				"Neuron"
+			],
+			[
+				"_re",
+				"_recentReplacement"
+			],
+			[
+				"re",
+				"relateIO"
+			],
+			[
+				"_in",
+				"_inputMap"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"_ou",
+				"_output"
+			],
+			[
+				"_",
+				"_position"
+			],
+			[
+				"_out",
+				"_outputMap"
+			],
+			[
+				"pu",
+				"previousNeurons"
+			],
+			[
+				"tem",
+				"tempNeurons"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"gene",
+				"generateNeuralNet"
+			],
+			[
+				"c",
+				"const"
+			],
+			[
+				"ato",
+				"atomic_size_t"
+			],
+			[
+				"db",
+				"dbgFileName"
+			],
+			[
+				"dbg",
+				"dbgFileName"
+			],
+			[
+				"th",
+				"threadID"
+			],
+			[
+				"Pop",
+				"PopulationDefaults"
+			],
+			[
+				"Vec",
+				"Vector2D"
+			],
+			[
+				"wor",
+				"worldFile"
+			],
+			[
+				"ste",
+				"onStep"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"str",
+				"struct	struct"
+			],
+			[
+				"SE",
+				"SELECT_LOAD"
+			],
+			[
+				"SELE",
+				"SELECT_NEW"
+			],
+			[
+				"pri",
+				"printCommand"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"org",
+				"organismIdx"
+			],
+			[
+				"spe",
+				"specieSize"
+			],
+			[
+				"nod",
+				"nodeType"
+			],
+			[
+				"loa",
+				"loadGenome"
+			],
+			[
+				"load",
+				"loadPopulationPrms"
+			],
+			[
+				"getCHa",
+				"getChampionIdx"
+			],
+			[
+				"cham",
+				"champIdx"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"Po",
+				"Population"
+			],
+			[
+				"File",
+				"FileStream"
+			],
+			[
+				"Fil",
+				"FileStream"
+			],
+			[
+				"Inp",
+				"InputFile"
+			],
+			[
+				"pop",
+				"population"
+			],
+			[
+				"isO",
+				"isOrganismBeingGenerated"
+			],
+			[
+				"isA",
+				"isAnyOrganismBeingGenerated"
+			],
+			[
+				"organ",
+				"organismIsBeingGenerated"
+			],
+			[
+				"_orga",
+				"_organismsBeingGenerated"
+			],
+			[
+				"is",
+				"isBeingGenerated"
+			],
+			[
+				"_or",
+				"_organismsBeingGenerated"
+			],
+			[
+				"_org",
+				"_organismIsLocked"
+			],
+			[
+				"_isL",
+				"_isLocked"
+			],
+			[
+				"organi",
+				"_organismsBeingGenerated"
+			],
+			[
+				"_lock",
+				"_lockedOrganisms"
+			],
+			[
+				"isL",
+				"isLockedByReplacement"
+			],
+			[
+				"si",
+				"size_t"
+			],
+			[
+				"_pop",
+				"_populationLock"
+			],
+			[
+				"leve",
+				"levelToSegment"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"emp",
+				"emplace_back"
+			],
+			[
+				"mu",
+				"mutex"
+			],
+			[
+				"incl",
+				"inclIter"
+			],
+			[
+				"siz",
+				"size_t"
+			],
+			[
+				"cr",
+				"crntInclusions"
+			],
+			[
+				"sour",
+				"sourceNeuron"
+			],
+			[
+				"neuro",
+				"_neurons"
+			],
+			[
+				"syn",
+				"synTot"
+			],
+			[
+				"thre",
+				"threadVec"
+			],
+			[
+				"_organi",
+				"_allOrganisms"
+			],
+			[
+				"poo",
+				"poorOrganism"
+			],
+			[
+				"fta",
+				"fatherIdx"
+			],
+			[
+				"fath",
+				"fatherIdx"
+			],
+			[
+				"fat",
+				"fatherIdx"
+			],
+			[
+				"orga",
+				"organismReplaced"
+			],
+			[
+				"repla",
+				"replaceOrganism"
+			],
+			[
+				"ran",
+				"randWeight"
+			],
+			[
+				"_cpp",
+				"_cppnInputs"
+			],
+			[
+				"_i",
+				"_innovationNo"
+			],
+			[
+				"gen",
+				"geneIdx"
+			],
+			[
+				"ra",
+				"randSeed"
+			],
+			[
+				"_o",
+				"_output"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "todolist.txt",
+			"settings":
+			{
+				"buffer_size": 1115,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/CppnExplorer.hpp",
+			"settings":
+			{
+				"buffer_size": 4318,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/CppnExplorer.cpp",
+			"settings":
+			{
+				"buffer_size": 17141,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"TAS",
+				"Tasks: New document"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"ops",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/Libraries/HyperNeat/plugins/CppnExplorer"
+	],
+	"file_history":
+	[
+		"/C/Projects/Applications/NeuroRacers/bin/current.population",
+		"/C/Projects/Libraries/HyperNeat/plugins/CppnExplorer/Makefile",
+		"/C/Users/Paul/Downloads/ID/Adobe Indesign CS6/DLL FILE/IMPORTANT.txt",
+		"/C/Users/Paul/Downloads/ID/Adobe Indesign CS6/INSTALLING INSTRUCTIONS.txt",
+		"/C/Projects/Libraries/HyperNeat/plugins/CppnExplorer/CppnExplorer.sublime-project",
+		"/C/Projects/Libraries/HyperNeat/plugins/CppnExplorer/src/CppnExplorer.cpp",
+		"/C/Projects/Libraries/HyperNeat/plugins/CppnExplorer/include/CppnExplorer.hpp",
+		"/C/TBB/include/tbb/atomic.h",
+		"/C/Program Files (x86)/Orbiter/Modules/D3D11Shaders/Planet_Clouds.fx",
+		"/C/Program Files (x86)/Orbiter/Modules/D3D11Shaders/Planet.fx",
+		"/C/Program Files (x86)/Orbiter/Config/NGPlanetConfig/Earth_ng.cfg",
+		"/C/Program Files (x86)/Orbiter/Config/Jupiter.cfg",
+		"/C/Program Files (x86)/Orbiter/Config/NGPlanetConfig/Titan_ng.cfg",
+		"/C/Program Files (x86)/Orbiter/D3D11Client.cfg",
+		"/C/Projects/.git",
+		"/C/Projects/New Text Document.txt",
+		"/C/Users/Paul/Downloads/orbiter100830/Config/Mars.cfg",
+		"/C/Projects/Libraries/HyperNeat/plugins/CppnExplorer/todo",
+		"/C/Users/Paul/Downloads/orbiter100830/Config/Earth.cfg",
+		"/C/Users/Paul/Downloads/asmi-ovp-1f2ee85a8579/asmi-ovp-1f2ee85a8579/D3D11CLIENT README.txt",
+		"/C/Users/Paul/Downloads/orbiter100830/readme.txt",
+		"/C/Users/Paul/Downloads/orbiter100830/patch.txt",
+		"/C/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Paul/Documents/Trabajo/Will Bourdreau/Laurieta Rose/NextStepsBoat.txt",
+		"/C/Projects/Libraries/HyperNeat/plugins/cppn.explorer/src/CppnExplorer.cpp",
+		"/C/Projects/Libraries/HyperNeat/plugins/cppn.explorer/Makefile",
+		"/C/Projects/Libraries/HyperNeat/plugins/cppn.explorer/include/CppnExplorer.hpp",
+		"/C/Projects/Libraries/HyperNeat/plugins/cppn.explorer/cppn.explorer.sublime-project",
+		"/C/Projects/Libraries/HyperNeat/HyperNeat.sublime-project",
+		"/C/Projects/Libraries/HyperNeat/src/Organism.cpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Population.hpp",
+		"/C/Projects/Libraries/HyperNeat/src/Population.cpp",
+		"/C/Projects/Libraries/HyperNeat/src/NeuralNet.cpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/NeuralNet.hpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Organism.hpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Utils/Atomic.hpp",
+		"/C/Projects/Libraries/HyperNeat/Makefile",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Utils/Future.hpp",
+		"/C/Projects/Libraries/HyperNeat/todo",
+		"/C/Users/Paul/Downloads/tbb42_20130725oss_win/tbb42_20130725oss/include/tbb/tbb.h",
+		"/C/Users/Paul/Downloads/tbb41_20130516oss_src/tbb41_20130516oss_src/tbb41_20130516oss/README.txt",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Utils/Vector.hpp",
+		"/C/Projects/Libraries/HyperNeat/src/Utils/Point.cpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Utils/Point.hpp",
+		"/C/Projects/Libraries/HyperNeat/src/QuadTree.cpp",
+		"/C/Projects/Libraries/HyperNeat/src/Utils/LoadFile.cpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Utils/Atom.hpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Utils/Vector2D.hpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Debugger.hpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Utils/Thread.hpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Utils/Mutex.hpp",
+		"/C/Projects/Libraries/HyperNeat/src/Cppn.cpp",
+		"/C/Projects/Libraries/HyperNeat/src/Cppn.s",
+		"/C/Users/Paul/Downloads/FitVids.js-master/FitVids.js-master/tests.html",
+		"/C/Users/Paul/Downloads/FitVids.js-master/FitVids.js-master/CONTRIBUTING.md",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/StackMacros.hpp",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/PopulationPrms.hpp",
+		"/C/Users/Paul/Downloads/Ida Pro v6.1/READ ME !!.txt",
+		"/C/Projects/Libraries/HyperNeat/src/QueryPlanePrms.cpp",
+		"/C/Projects/Libraries/HyperNeat/src/Utils/SaveFile.cpp",
+		"/C/SFML/build-debug/CMakeCache.txt",
+		"/C/Box2D/build-debug/CMakeCache.txt",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Genome.hpp",
+		"/C/Projects/Applications/NeuroRacers/bin/population",
+		"/C/Projects/Libraries/HyperNeat/include/HyperNeat/Cppn.hpp",
+		"/C/SFML/build-dynamic/CMakeCache.txt",
+		"/C/Box2D/build-dynamic/CMakeCache.txt",
+		"/C/Projects/Libraries/HyperNeat/src/Utils/TEMP_Vector.cpp",
+		"/C/Projects/Applications/HyperGuppies/Makefile",
+		"/C/Projects/Applications/Guppies SFML/SimBase_Execute.cpp",
+		"/C/Projects/Applications/HyperGuppies/include/Utils/String.hpp",
+		"/C/Projects/Applications/HyperGuppies/todo",
+		"/C/Programming/Applications/HyperGuppies/include/Utils/RLUtils.hpp",
+		"/C/Programming/Applications/HyperGuppies/include/WorldParams.hpp",
+		"/C/Users/Paul/Downloads/pdc25_vc_w32/README",
+		"/C/Programming/Applications/HyperGuppies/bin/worlds/default.world",
+		"/C/Programming/Applications/HyperGuppies/include/Utils/File.hpp",
+		"/C/Programming/Applications/HyperGuppies/Makefile",
+		"/C/Programming/Applications/HyperGuppies/HyperGuppies.sublime-project",
+		"/C/Programming/Applications/Guppies SFML/Params.hpp",
+		"/C/Users/Paul/Downloads/SFML/SFML-master/CMakeLists.txt",
+		"/C/Programming/Applications/HyperGuppies/include/Utils/Function.hpp",
+		"/C/Users/Paul/Downloads/RBTray-4_3/readme.txt",
+		"/C/Programming/Applications/HyperGuppies/src/Main.cpp",
+		"/C/Programming/Applications/HyperGuppies/todo",
+		"/C/RLUtil/RLUtil.hpp",
+		"/C/Users/Paul/Downloads/PlainTasks-master/PlainTasks-master/Readme.md",
+		"/C/Programming/Applications/HyperGuppies/include/App.hpp",
+		"/C/Programming/Applications/HyperGuppies/src/App.cpp",
+		"/C/Users/Paul/Downloads/rlutil-master/rlutil-master/rlutil.hpp",
+		"/C/Users/Paul/Downloads/rlutil-master/rlutil-master/example.c",
+		"/C/Users/Paul/Downloads/rlutil-master/rlutil-master/test.cpp",
+		"/C/Users/Paul/Downloads/rlutil-master/rlutil-master/rlutil.h",
+		"/C/Box2D/include/Common/b2Settings.h",
+		"/C/Users/Paul/Desktop/Box2D/Box2D/Common/b2Settings.h",
+		"/C/Users/Paul/Desktop/Box2D/CMakeLists.txt",
+		"/C/Users/Paul/Desktop/Box2D/Box2D/CMakeLists.txt",
+		"/C/Programming/Libraries/HyperNeat/Makefile",
+		"/C/Users/Paul/Downloads/neuro.3.0.3/neuro/style.css",
+		"/C/Users/Paul/Downloads/tapio-rlutil-c49f5ae/tapio-rlutil-c49f5ae/rlutil.h",
+		"/C/Programming/Libraries/HyperNeat/src/Utils/LoadFile.cpp",
+		"/C/Programming/Applications/NeuroRacers/bin/population",
+		"/C/Programming/Libraries/HyperNeat/todo",
+		"/C/Programming/Libraries/HyperNeat/include/Population.hpp",
+		"/C/Programming/Libraries/HyperNeat/include/Utils/LoadFile.hpp",
+		"/C/Programming/Libraries/HyperNeat/src/Utils/SaveFile.cpp",
+		"/C/Programming/Libraries/HyperNeat/include/Utils/SaveFile.hpp",
+		"/C/Programming/Libraries/HyperNeat/include/Organism.hpp",
+		"/C/Users/Paul/Desktop/Box2D_v2.2.1/Box2D/Common/b2Settings.h",
+		"/C/Users/Paul/Desktop/Box2D_v2.2.1/Building.txt",
+		"/C/Users/Paul/Desktop/Box2D_v2.2.1/Box2D/Box2D.h",
+		"/C/Users/Paul/Desktop/Box2D_v2.2.1/Readme.txt",
+		"/C/Programming/Libraries/HyperNeat/src/Genome.cpp",
+		"/C/Programming/Libraries/HyperNeat/include/Genome.hpp",
+		"/C/Programming/Libraries/HyperNeat/src/Cppn.cpp",
+		"/C/Programming/Libraries/HyperNeat/include/Cppn.hpp",
+		"/C/Programming/Libraries/HyperNeat/src/Organism.cpp",
+		"/C/Programming/Libraries/HyperNeat/src/Population.cpp",
+		"/C/Box2D/src/Dynamics/b2World.cpp",
+		"/C/Box2D/src/Dynamics/b2World.h",
+		"/C/Box2D/src/Dynamics/b2WorldCallbacks.h",
+		"/C/Programming/Libraries/HyperNeat/include/Utils/NodeTypes.hpp",
+		"/C/Programming/Libraries/HyperNeat/include/Utils/String.hpp",
+		"/C/Programming/Libraries/HyperNeat/src/LoadSaveSystem.cpp",
+		"/C/Programming/Libraries/HyperNeat/include/LoadSaveSystem.hpp",
+		"/C/Programming/Libraries/HyperNeat/include/Saver.hpp",
+		"/C/Programming/Libraries/HyperNeat/src/Utils/File.cpp",
+		"/C/Programming/Libraries/HyperNeat/include/Utils/File.hpp"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"BlendMode",
+			"fieldGenerator",
+			"value",
+			"_grid",
+			"223",
+			"refNeuron",
+			"0",
+			"PIXEL_SIZE",
+			"cout",
+			"_windowOpen",
+			"64",
+			"bias",
+			"pos",
+			"bias",
+			"PIXEL",
+			"CPPN_EX_WIDTH",
+			"_withNeuralNet",
+			"600",
+			"512",
+			"_window",
+			"System",
+			"Graphics",
+			"RenderWindow",
+			"WIN",
+			"sf::",
+			"gridClr",
+			"64",
+			"sf::",
+			" = nullptr",
+			"16",
+			"128",
+			"=",
+			"_resolution",
+			"SunDir",
+			"16",
+			"128",
+			"32",
+			"sf::Uint8",
+			"Alpha",
+			"sf::Color::White",
+			"{ 0, 0, 0, 0 }",
+			"sf::Color::Black",
+			"Add",
+			"2",
+			"1.0f",
+			"Thickness",
+			"setOrigin",
+			"0",
+			"_uiColor",
+			"0.0",
+			"resolution",
+			"Neurons",
+			"\\",
+			"{ 0, 0, 0 }",
+			"_uiColor",
+			"6",
+			"8",
+			"10",
+			"3",
+			"_uiColor",
+			"{ 0, 0, 0 }",
+			", 128",
+			"PIXEL * 1.0f",
+			"6",
+			"4",
+			"0",
+			"_cppn.outputAt(0)",
+			"_valueImage.",
+			"bias",
+			"mage",
+			"val",
+			"*",
+			"{ 0, 0, 0, 128 }",
+			"_uiColor",
+			"4.",
+			"3.0",
+			"2",
+			"1.5",
+			"colorInt / 2",
+			"radius",
+			"_body",
+			"64",
+			"0",
+			"20",
+			"128",
+			"20.0",
+			"16",
+			"10.0",
+			"0.025f",
+			"2",
+			"4",
+			"x1",
+			"1",
+			"x",
+			"_weight",
+			"64",
+			"PIXEL",
+			"0.008f",
+			"0",
+			"_body",
+			"128",
+			"0.1",
+			"Scale",
+			"H",
+			", 2, sf::Lines",
+			")",
+			"sf::Vertex(",
+			"sf::Vector2f",
+			"Color",
+			"cursor",
+			"cVal",
+			"weight",
+			"_cppn",
+			"weight",
+			"_cppn",
+			"cVal",
+			" - cBias",
+			"abs(",
+			"cVal",
+			"val",
+			"static_cast<double>(",
+			"0",
+			"int",
+			"int(255)",
+			"sf::Uint8",
+			"float",
+			"x",
+			"cppn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "todolist.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/CppnExplorer.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/CCpp.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/CppnExplorer.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1778,
+								1778
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/CCpp.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 828.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "CppnExplorer.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\Libraries\\HyperNeat\\HyperNeat.sublime-project"
+			]
+		],
+		"width": 805.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

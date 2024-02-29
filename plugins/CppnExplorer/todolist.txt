@@ -1,0 +1,21 @@
+Cppn Explorer:
+  ☐ Render to any sf::RenderTarget
+  ☐ Calculate field on separate thread (keep 2 textures)
+  ☐ Render Neurons as crossmarks
+  ☐ (When Rendering to Window) Cycle fields with F key
+  ☐ (When Rendering to Window) Cycle between Neurons and Synapses using arrow keys
+  ☐ Display text data
+  ☐ (When Rendering to Window) Embed icon
+  ☐ Show Cppn Network
+
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+ ✔ Display connection to same neuron as square around neuron @done (13-12-10 00:29) @project(Cppn Explorer)
+ ✔ Use better color and blending for neurons @done (13-11-25 00:24) @project(Cppn Explorer)
+ ✔ Display Synapses as blended lines with Transparency representing Weights @done (13-11-25 00:24) @project(Cppn Explorer)
+ ✔ Display cursor beatifully @done (13-11-23 20:31) @project(Cppn Explorer)
+ ✔ Display grid @done (13-11-23 01:58) @project(Cppn Explorer)
+ ✔ Fix cursor @done (13-11-21 02:18) @project(Cppn Explorer)
+ ✔ Print and switch between fields @done (13-11-06 04:35) @project(Cppn Explorer)
+ ✔ Display Neurons beautifully (with bias represented as a nucleus) @done (13-11-04 20:52) @project(Cppn Explorer)
